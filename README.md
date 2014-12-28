@@ -55,5 +55,5 @@ application:
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2013 Michael Pearson <[http://github.com/mjpearson](http://github.com/mjpearson)>
+Copyright (c) 2013 Michael Pearson <[http://github.com/mjpearson](http://github.com/mjpearson)>  
 Copyright (c) 2014-2015 Ido Ran <[http://github.com/ido-ran](http://github.com/ido-ran)>
