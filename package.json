@@ -1,7 +1,7 @@
 {
-  "name": "passport-oauth2-complete-for-wordpress",
-  "version": "0.1.3",
-  "description": "OAuth2 Complete For WordPress strategy for Passport.",
+  "name": "passport-wordpress-oauth-server",
+  "version": "0.1.0",
+  "description": "WordPress OAuth Server strategy for Passport.",
   "keywords": [
     "passport",
     "wordpress",
@@ -12,10 +12,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/ido-ran/passport-oauth2-complete-for-wordpress.git"
+    "url": "git://github.com/ido-ran/passport-wordpress-oauth-server.git"
   },
   "bugs": {
-    "url": "http://github.com/ido-ran/passport-oauth2-complete-for-wordpress/issues"
+    "url": "http://github.com/ido-ran/passport-wordpress-oauth-server/issues"
   },  
   "licenses": [
     {
@@ -31,6 +31,6 @@
   "engines": {
     "node": ">= 0.4.0"
   },  
-  "_id": "passport-oauth2-complete-for-wordpress@0.1.0",
-  "_from": "passport-oauth2-complete-for-wordpress@>=0.0.1"
+  "_id": "passport-wordpress-oauth-server@0.1.0",
+  "_from": "passport-wordpress-oauth-server@>=0.0.1"
 }
