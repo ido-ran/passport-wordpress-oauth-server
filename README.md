@@ -1,11 +1,11 @@
 # OAuth2-Complete-For-WordPress
 
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
-with [OAuth2 Complete For WordPress Plugin](https://wordpress.org/plugins/oauth2-provider/) using the OAuth 2.0 API.
+with [WordPress OAuth Server plugin](http://wp-oauth.com/) using the OAuth 2.0 API.
 
 ## Install
 
-    $ npm install passport-oauth2-complete-for-wordpress
+    $ npm install passport-wordpress-oauth-server
 
 ## Usage
 
