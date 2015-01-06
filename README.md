@@ -1,4 +1,4 @@
-# OAuth2-Complete-For-WordPress
+# WordPress OAuth Server strategy for Passport
 
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
 with [WordPress OAuth Server plugin](http://wp-oauth.com/) using the OAuth 2.0 API.
