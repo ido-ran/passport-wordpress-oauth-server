@@ -31,17 +31,17 @@ accepts these credentials and calls `done` providing a user, as well as
 
 #### Authenticate Requests
 
-Use `passport.authorize()`, specifying the `'Wordpress'` strategy, to
+Use `passport.authorize()`, specifying the `'wordpress-oauth-server'` strategy, to
 authenticate requests.
 
 For example, as route middleware in an [Express](http://expressjs.com/)
 application:
 
     app.get('/auth/wordpress',
-      passport.authorize('wordpress'));
+      passport.authorize('wordpress-oauth-server'));
 
     app.get('/auth/wordpress/callback', 
-      passport.authorize('wordpress', { failureRedirect: '/login' }),
+      passport.authorize('wordpress-oauth-server', { failureRedirect: '/login' }),
       function(req, res) {
         // Successful authentication, redirect home.
         res.redirect('/');
