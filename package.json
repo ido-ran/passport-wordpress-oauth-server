@@ -1,6 +1,6 @@
 {
   "name": "passport-wordpress-oauth-server",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "WordPress OAuth Server strategy for Passport.",
   "keywords": [
     "passport",
